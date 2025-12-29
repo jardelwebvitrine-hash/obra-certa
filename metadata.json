@@ -1,0 +1,10 @@
+
+{
+  "name": "OBRACERTA",
+  "description": "A comprehensive construction, maintenance, and installation management platform with integrated Gemini AI for project estimation, material calculations, and technical troubleshooting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
